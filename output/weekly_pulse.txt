@@ -1,0 +1,11 @@
+Groww weekly product pulse — week ending 13 October 2026
+
+12,732 Play reviews (22 Jul–13 Oct 2026) form five themes. Ease of use: 10,896 (85.6%, avg 4.85). Other complaints: 906. App reliability: 361. Charges and deductions: 350. Customer support: 219. 85.2% are 4 or 5 stars.
+
+Top three by volume: ease of use, other complaints, and app reliability (lagging charts and failed orders). It peaked at 59 in the week of 26 Aug; charge reviews peaked at 55 that same week.
+
+Misunderstood fee: equity brokerage (118 reviews). Users treat the ₹20 rule and ₹0 AMC as the full cost of one order. “my trade for only 1 mint and 1 order after that It will deduct 200+ ₹ charges why? but you mentioned that 20₹/ per order” — Purchase Favourite Product, 14 Aug 2026. “graphs are not getting updated immediately and lag behind. I need to refresh the screen to get the updated price.” — Nishith Vyas, 31 Aug 2026. “Customer care is not easy to reach nor is able to solve the issues properly.” — Saurabh Gupta, 13 Aug 2026.
+
+Observation: GST, statutory charges, a delivery-sell DP charge, and the UPI-mandate 1% rate sit outside the ₹20 cap, so a note can exceed ₹20. Users call that gap hidden brokerage.
+
+Actions: 1) Split brokerage, GST, statutory charges, and DP on the confirm screen. 2) Show the UPI-mandate 1% exception beside the ₹20 line. 3) Give support a “charged more than ₹20” reply that cites the pricing page.

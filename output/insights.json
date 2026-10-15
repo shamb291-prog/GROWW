@@ -1,0 +1,180 @@
+{
+  "product": "Groww",
+  "source": "Google Play",
+  "package": "com.nextbillion.groww",
+  "source_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww&hl=en_IN",
+  "window": "22 July 2026 – 13 October 2026",
+  "review_count": 12732,
+  "positive_pct": 85.2,
+  "score_counts": {
+    "1": 1320,
+    "2": 212,
+    "3": 347,
+    "4": 1012,
+    "5": 9841
+  },
+  "themes": [
+    {
+      "theme": "Ease of use",
+      "count": 10896,
+      "share_pct": 85.6,
+      "avg_score": 4.85,
+      "score_1_or_2": 123
+    },
+    {
+      "theme": "Other complaints",
+      "count": 906,
+      "share_pct": 7.1,
+      "avg_score": 1.42,
+      "score_1_or_2": 769
+    },
+    {
+      "theme": "App reliability",
+      "count": 361,
+      "share_pct": 2.8,
+      "avg_score": 2.04,
+      "score_1_or_2": 248
+    },
+    {
+      "theme": "Charges and deductions",
+      "count": 350,
+      "share_pct": 2.7,
+      "avg_score": 2.42,
+      "score_1_or_2": 208
+    },
+    {
+      "theme": "Customer support",
+      "count": 219,
+      "share_pct": 1.7,
+      "avg_score": 1.56,
+      "score_1_or_2": 184
+    }
+  ],
+  "top_3_by_volume": [
+    "Ease of use",
+    "Other complaints",
+    "App reliability"
+  ],
+  "week_labels": [
+    "22 Jul",
+    "29 Jul",
+    "5 Aug",
+    "12 Aug",
+    "19 Aug",
+    "26 Aug",
+    "2 Sep",
+    "9 Sep",
+    "16 Sep",
+    "23 Sep",
+    "30 Sep",
+    "7 Oct"
+  ],
+  "weekly": {
+    "Ease of use": [
+      730,
+      1042,
+      1032,
+      945,
+      939,
+      1242,
+      863,
+      898,
+      888,
+      842,
+      762,
+      713
+    ],
+    "Other complaints": [
+      57,
+      62,
+      94,
+      70,
+      73,
+      107,
+      78,
+      71,
+      93,
+      71,
+      63,
+      67
+    ],
+    "App reliability": [
+      23,
+      36,
+      42,
+      16,
+      20,
+      59,
+      33,
+      30,
+      37,
+      22,
+      21,
+      22
+    ],
+    "Charges and deductions": [
+      22,
+      30,
+      33,
+      23,
+      28,
+      55,
+      30,
+      23,
+      40,
+      21,
+      19,
+      26
+    ],
+    "Customer support": [
+      6,
+      17,
+      19,
+      16,
+      26,
+      29,
+      15,
+      15,
+      31,
+      13,
+      18,
+      14
+    ]
+  },
+  "brokerage_mentions": 118,
+  "brokerage_score_1_or_2": 64,
+  "fee": {
+    "name": "Equity brokerage",
+    "why": "Reviews treat the published ₹20 / 0.1% brokerage rule and ₹0 AMC as the full cost of an order, then describe GST, statutory charges, DP, and the UPI-mandate 1% rate as hidden brokerage."
+  },
+  "quotes": [
+    {
+      "theme": "Charges and deductions",
+      "review_id": "e651315f-a8aa-4540-9b8d-dc2468d1fc51",
+      "excerpt": "my trade for only 1 mint and 1 order after that It will deduct 200+ ₹ charges why? but you mentioned that 20₹/ per order",
+      "user_name": "Purchase Favourite Product",
+      "date": "14 Aug 2026",
+      "score": 1,
+      "reviewed_at": "2026-08-14 14:28:54"
+    },
+    {
+      "theme": "App reliability",
+      "review_id": "b6b076f2-8f1f-4438-9c66-5a3801b8d6e5",
+      "excerpt": "graphs are not getting updated immediately and lag behind. I need to refresh the screen to get the updated price.",
+      "user_name": "Nishith Vyas",
+      "date": "31 Aug 2026",
+      "score": 2,
+      "reviewed_at": "2026-08-31 14:45:57"
+    },
+    {
+      "theme": "Customer support",
+      "review_id": "71145e9c-6c09-4099-bc2a-21c554ae785b",
+      "excerpt": "Customer care is not easy to reach nor is able to solve the issues properly.",
+      "user_name": "Saurabh Gupta",
+      "date": "13 Aug 2026",
+      "score": 2,
+      "reviewed_at": "2026-08-13 22:10:04"
+    }
+  ],
+  "pulse_words": 248
+}

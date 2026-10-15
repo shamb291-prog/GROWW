@@ -1,0 +1,24 @@
+[
+  {
+    "date": "2026-10-15",
+    "top_themes": [
+      "Ease of use",
+      "Other complaints",
+      "App reliability"
+    ],
+    "weekly_pulse": "Groww weekly product pulse — week ending 13 October 2026\n\n12,732 Play reviews (22 Jul–13 Oct 2026) form five themes. Ease of use: 10,896 (85.6%, avg 4.85). Other complaints: 906. App reliability: 361. Charges and deductions: 350. Customer support: 219. 85.2% are 4 or 5 stars.\n\nTop three by volume: ease of use, other complaints, and app reliability (lagging charts and failed orders). It peaked at 59 in the week of 26 Aug; charge reviews peaked at 55 that same week.\n\nMisunderstood fee: equity brokerage (118 reviews). Users treat the ₹20 rule and ₹0 AMC as the full cost of one order. “my trade for only 1 mint and 1 order after that It will deduct 200+ ₹ charges why? but you mentioned that 20₹/ per order” — Purchase Favourite Product, 14 Aug 2026. “graphs are not getting updated immediately and lag behind. I need to refresh the screen to get the updated price.” — Nishith Vyas, 31 Aug 2026. “Customer care is not easy to reach nor is able to solve the issues properly.” — Saurabh Gupta, 13 Aug 2026.\n\nObservation: GST, statutory charges, a delivery-sell DP charge, and the UPI-mandate 1% rate sit outside the ₹20 cap, so a note can exceed ₹20. Users call that gap hidden brokerage.\n\nActions: 1) Split brokerage, GST, statutory charges, and DP on the confirm screen. 2) Show the UPI-mandate 1% exception beside the ₹20 line. 3) Give support a “charged more than ₹20” reply that cites the pricing page.",
+    "identified_fee_issue": "Equity brokerage. Reviews treat the ₹20 or 0.1% rule and ₹0 account maintenance as the full cost of one order. GST, statutory charges, a delivery-sell DP charge, and the UPI-mandate 1% rate are then described as hidden brokerage.",
+    "explanation_bullets": [
+      "Equity brokerage on delivery and intraday is the lower of ₹20 or 0.1% of the executed order value, with a minimum of ₹5. It is charged per executed order.",
+      "Orders funded from UPI Mandate balance pay equity brokerage of 1% of the order value, with no maximum cap.",
+      "Account maintenance is ₹0. That charge is separate from brokerage. ₹0 account maintenance does not set brokerage to ₹0.",
+      "GST at 18% applies on brokerage, in addition to the brokerage amount.",
+      "Securities transaction tax, stamp duty, exchange transaction charges, the SEBI turnover charge, and the investor protection fund charge are statutory or exchange charges. They are not Groww brokerage and appear as their own lines.",
+      "A delivery sell also has a DP charge: depository ₹3.50 (male investors) or ₹3.25 (female investors), plus Groww ₹16.50. Groww’s ₹16.50 is ₹0 when the debit value is under ₹100. GST applies on the DP charge. This is not brokerage."
+    ],
+    "source_links": [
+      "https://groww.in/pricing/",
+      "https://groww.in/help/stocks,-f&o,-ipo-&-mtf/sx-demat-account/how-much-does-groww-charge-for-stocks-1"
+    ]
+  }
+]

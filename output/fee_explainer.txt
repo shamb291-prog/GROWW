@@ -1,0 +1,14 @@
+Equity brokerage on Groww
+
+- Equity brokerage on delivery and intraday is the lower of ₹20 or 0.1% of the executed order value, with a minimum of ₹5. It is charged per executed order.
+- Orders funded from UPI Mandate balance pay equity brokerage of 1% of the order value, with no maximum cap.
+- Account maintenance is ₹0. That charge is separate from brokerage. ₹0 account maintenance does not set brokerage to ₹0.
+- GST at 18% applies on brokerage, in addition to the brokerage amount.
+- Securities transaction tax, stamp duty, exchange transaction charges, the SEBI turnover charge, and the investor protection fund charge are statutory or exchange charges. They are not Groww brokerage and appear as their own lines.
+- A delivery sell also has a DP charge: depository ₹3.50 (male investors) or ₹3.25 (female investors), plus Groww ₹16.50. Groww’s ₹16.50 is ₹0 when the debit value is under ₹100. GST applies on the DP charge. This is not brokerage.
+
+Sources:
+https://groww.in/pricing/
+https://groww.in/help/stocks,-f&o,-ipo-&-mtf/sx-demat-account/how-much-does-groww-charge-for-stocks-1
+
+Last checked: 14 October 2026
